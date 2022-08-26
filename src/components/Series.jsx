@@ -6,9 +6,9 @@ import nemo from "../Images/nemo.jpg";
 import toyStory from "../Images/toyStory.jpg";
 import wall from "../Images/walle.jpg";
 function Series() {
-  const moviestop=[{img:jungle,title:"jungle"},{img:nemo,title:"nemo"},{img:toyStory,title:"Ratatouille"},{img:wall,title:"Wall E"}];
-  const movieswatching=[{img:jungle,title:"jungle"},{img:nemo,title:"nemo"},{img:toyStory,title:"Ratatouille"},{img:wall,title:"Wall E"}];
-  const movierating=[{img:jungle,title:"jungle"},{img:nemo,title:"nemo"},{img:toyStory,title:"Ratatouille"},{img:wall,title:"Wall E"}];
+  const moviestop=[{img:jungle,title:"jungle",id:1},{img:nemo,title:"nemo",id:2},{img:toyStory,title:"Ratatouille",id:3},{img:wall,title:"Wall E",id:4}];
+  const movieswatching=[{img:jungle,title:"jungle",id:1},{img:nemo,title:"nemo",id:2},{img:toyStory,title:"Ratatouille",id:3},{img:wall,title:"Wall E",id:4}];
+  const movierating=[{img:jungle,title:"jungle",id:1},{img:nemo,title:"nemo",id:2},{img:toyStory,title:"Ratatouille",id:3},{img:wall,title:"Wall E",id:4}];
 
 
   return (

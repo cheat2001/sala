@@ -9,7 +9,7 @@ function MovieBlock({Type,Wth,Hth,Movies}) {
               <a href="#">See all &gt;</a>
           </div>
           <div className="flex flex-wrap justify-center gap-5">
-          {Movies&&Movies.map(movie=><Movie Wth={Wth} Hth={Hth} Img={movie.img} Title={movie.title}/>)}
+          {Movies&&Movies.map(movie=><Movie Wth={Wth} Hth={Hth} Img={movie.img} Title={movie.title} Id={movie.id}/>)}
           </div>
     </div>
   )
