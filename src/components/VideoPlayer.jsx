@@ -11,7 +11,7 @@ function VideoPlayer() {
         <ReactPlayer  controls={true} url={LucaVideo}      width='100%'
           height='100%'  />
         </div>
-        <h1 style={{fontSize:"35px"}}>Luca Trailer Movie</h1>
+        <h1 style={{fontSize:"35px"}}>Untited video trailer</h1>
         <p style={{fontSize:"25px"}}>2022</p>
     </div>
   )

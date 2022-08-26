@@ -11,6 +11,7 @@ function SeeAll() {
    const moviestop=[{img:Luca,title:"Luca"},{img:Batman,title:"Batman"},{img:Rat,title:"Ratatouille"},{img:Up,title:"Up"},
    {img:Luca,title:"Luca"},{img:Batman,title:"Batman"},{img:Rat,title:"Ratatouille"},{img:Up,title:"Up"},
    {img:Luca,title:"Luca"},{img:Batman,title:"Batman"},{img:Rat,title:"Ratatouille"},{img:Up,title:"Up"},
+   {img:Luca,title:"Luca"},{img:Batman,title:"Batman"},{img:Rat,title:"Ratatouille"},{img:Up,title:"Up"},
    {img:Luca,title:"Luca"},{img:Batman,title:"Batman"},{img:Rat,title:"Ratatouille"},{img:Up,title:"Up"}
 ];
  

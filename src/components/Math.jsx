@@ -7,10 +7,10 @@ import Khmer2 from "../Images/math2.jpg";
 import Khmer3 from "../Images/math3.png"
 import Khmer4 from "../Images/math4.jpg"
 function MovieContainer() {
-   const moviestop=[{img:Khmer1,title:"Luca"},{img:Khmer2,title:"Batman"},{img:Khmer3,title:"Ratatouille"},{img:Khmer4,title:"Up"}];
-   const movieswatching=[{img:Khmer1,title:"Luca"},{img:Khmer2,title:"Batman"},{img:Khmer3,title:"Ratatouille"},{img:Khmer4,title:"Up"}];
-   const moviesrating=[{img:Khmer1,title:"Luca"},{img:Khmer2,title:"Batman"},{img:Khmer3,title:"Ratatouille"},{img:Khmer4,title:"Up"}];
-  
+   const moviestop=[{img:Khmer1,title:"ដោះស្រាយសមីការ"},{img:Khmer2,title:"អាំងតេក្រាល"},{img:Khmer3,title:"រៀនគិតបែបគណិតវិទ្យា"},{img:Khmer4,title:"កូនសមីការ"}];
+   const movieswatching=[{img:Khmer1,title:"ដោះស្រាយសមីការ"},{img:Khmer2,title:"អាំងតេក្រាល"},{img:Khmer3,title:"រៀនគិតបែបគណិតវិទ្យា"},{img:Khmer4,title:"កូនសមីការ"}];
+   const moviesrating=[{img:Khmer1,title:"ដោះស្រាយសមីការ"},{img:Khmer2,title:"អាំងតេក្រាល"},{img:Khmer3,title:"រៀនគិតបែបគណិតវិទ្យា"},{img:Khmer4,title:"កូនសមីការ"}];
+ 
 
   return (
     <div className="absolute w-[100%] bg-[#182335] top-[70px] left-0 pl-[70px]">

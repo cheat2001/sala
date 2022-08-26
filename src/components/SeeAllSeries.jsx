@@ -11,6 +11,7 @@ function SeeAll() {
     const moviestop=[{img:jungle,title:"jungle",id:1},{img:nemo,title:"nemo",id:2},{img:toyStory,title:"Ratatouille",id:3},{img:wall,title:"Wall E",id:4},
     {img:jungle,title:"jungle",id:1},{img:nemo,title:"nemo",id:2},{img:toyStory,title:"Ratatouille",id:3},{img:wall,title:"Wall E",id:4},
     {img:jungle,title:"jungle",id:1},{img:nemo,title:"nemo",id:2},{img:toyStory,title:"Ratatouille",id:3},{img:wall,title:"Wall E",id:4},
+    {img:jungle,title:"jungle",id:1},{img:nemo,title:"nemo",id:2},{img:toyStory,title:"Ratatouille",id:3},{img:wall,title:"Wall E",id:4},
     {img:jungle,title:"jungle",id:1},{img:nemo,title:"nemo",id:2},{img:toyStory,title:"Ratatouille",id:3},{img:wall,title:"Wall E",id:4}
 ];
  

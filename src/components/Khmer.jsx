@@ -7,9 +7,9 @@ import Khmer2 from "../Images/khmer2.jfif";
 import Khmer3 from "../Images/khmer3.jpg"
 import Khmer4 from "../Images/khmer4.png"
 function MovieContainer() {
-   const moviestop=[{img:Khmer1,title:"Luca"},{img:Khmer2,title:"Batman"},{img:Khmer3,title:"Ratatouille"},{img:Khmer4,title:"Up"}];
-   const movieswatching=[{img:Khmer1,title:"Luca"},{img:Khmer2,title:"Batman"},{img:Khmer3,title:"Ratatouille"},{img:Khmer4,title:"Up"}];
-   const moviesrating=[{img:Khmer1,title:"Luca"},{img:Khmer2,title:"Batman"},{img:Khmer3,title:"Ratatouille"},{img:Khmer4,title:"Up"}];
+   const moviestop=[{img:Khmer1,title:"ដើមឈើដុះលើប្រាសាទ"},{img:Khmer2,title:"ដំរីជំនាន់ដើម"},{img:Khmer3,title:"សម្រស់អង្គរធំ"},{img:Khmer4,title:"ជំនាន់សំឡុតស"}];
+   const movieswatching=[{img:Khmer1,title:"ដើមឈើដុះលើប្រាសាទ"},{img:Khmer2,title:"ដំរីជំនាន់ដើម"},{img:Khmer3,title:"សម្រស់អង្គរធំ"},{img:Khmer4,title:"ជំនាន់សំឡុតស"}];
+   const moviesrating=[{img:Khmer1,title:"ដើមឈើដុះលើប្រាសាទ"},{img:Khmer2,title:"ដំរីជំនាន់ដើម"},{img:Khmer3,title:"សម្រស់អង្គរធំ"},{img:Khmer4,title:"ជំនាន់សំឡុតស"}];
   
 
   return (

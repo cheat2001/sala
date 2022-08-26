@@ -8,11 +8,13 @@ import Khmer3 from "../Images/khmer3.jpg"
 import Khmer4 from "../Images/khmer4.png"
 import {Outlet} from "react-router-dom";
 function SeeAllKhmer() {
-    const moviestop=[{img:Khmer1,title:"Luca"},{img:Khmer2,title:"Batman"},{img:Khmer3,title:"Ratatouille"},{img:Khmer4,title:"Up"},
-    {img:Khmer1,title:"Luca"},{img:Khmer2,title:"Batman"},{img:Khmer3,title:"Ratatouille"},{img:Khmer4,title:"Up"},
-    {img:Khmer1,title:"Luca"},{img:Khmer2,title:"Batman"},{img:Khmer3,title:"Ratatouille"},{img:Khmer4,title:"Up"},
-    {img:Khmer1,title:"Luca"},{img:Khmer2,title:"Batman"},{img:Khmer3,title:"Ratatouille"},{img:Khmer4,title:"Up"}
+  const moviestop=[{img:Khmer1,title:"ដើមឈើដុះលើប្រាសាទ"},{img:Khmer2,title:"ដំរីជំនាន់ដើម"},{img:Khmer3,title:"សម្រស់អង្គរធំ"},{img:Khmer4,title:"ជំនាន់សំឡុតស"},
+  {img:Khmer1,title:"ដើមឈើដុះលើប្រាសាទ"},{img:Khmer2,title:"ដំរីជំនាន់ដើម"},{img:Khmer3,title:"សម្រស់អង្គរធំ"},{img:Khmer4,title:"ជំនាន់សំឡុតស"},
+  {img:Khmer1,title:"ដើមឈើដុះលើប្រាសាទ"},{img:Khmer2,title:"ដំរីជំនាន់ដើម"},{img:Khmer3,title:"សម្រស់អង្គរធំ"},{img:Khmer4,title:"ជំនាន់សំឡុតស"},
+  {img:Khmer1,title:"ដើមឈើដុះលើប្រាសាទ"},{img:Khmer2,title:"ដំរីជំនាន់ដើម"},{img:Khmer3,title:"សម្រស់អង្គរធំ"},{img:Khmer4,title:"ជំនាន់សំឡុតស"},
+  {img:Khmer1,title:"ដើមឈើដុះលើប្រាសាទ"},{img:Khmer2,title:"ដំរីជំនាន់ដើម"},{img:Khmer3,title:"សម្រស់អង្គរធំ"},{img:Khmer4,title:"ជំនាន់សំឡុតស"}
 ];
+  
  
 
   return (

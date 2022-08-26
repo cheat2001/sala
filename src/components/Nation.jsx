@@ -7,9 +7,9 @@ import Nation2 from "../Images/nation2.jpg";
 import Nation3 from "../Images/nation3.jpg"
 import Nation4 from "../Images/nation4.jpg"
 function MovieContainer() {
-   const moviestop=[{img:Nation1,title:"Luca"},{img:Nation2,title:"Batman"},{img:Nation3,title:"Ratatouille"},{img:Nation4,title:"Up"}];
-   const movieswatching=[{img:Nation1,title:"Luca"},{img:Nation2,title:"Batman"},{img:Nation3,title:"Ratatouille"},{img:Nation4,title:"Up"}];
-   const moviesrating=[{img:Nation1,title:"Luca"},{img:Nation2,title:"Batman"},{img:Nation3,title:"Ratatouille"},{img:Nation4,title:"Up"}];
+   const moviestop=[{img:Nation1,title:"កិច្ចប្រជុំ"},{img:Nation2,title:"សារសំឡេងសម្ដេច"},{img:Nation3,title:"ទុកសោកសៅ"},{img:Nation4,title:"អក្សរារាំរបាំ"}];
+   const movieswatching=[{img:Nation1,title:"កិច្ចប្រជុំ"},{img:Nation2,title:"សារសំឡេងសម្ដេច"},{img:Nation3,title:"ទុកសោកសៅ"},{img:Nation4,title:"អក្សរារាំរបាំ"}];
+   const moviesrating=[{img:Nation1,title:"កិច្ចប្រជុំ"},{img:Nation2,title:"សារសំឡេងសម្ដេច"},{img:Nation3,title:"ទុកសោកសៅ"},{img:Nation4,title:"អក្សរារាំរបាំ"}];
   
 
   return (

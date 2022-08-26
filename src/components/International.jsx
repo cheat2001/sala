@@ -7,9 +7,9 @@ import International2 from "../Images/international2.jpg";
 import International3 from "../Images/international3.jpg"
 import International4 from "../Images/international4.png"
 function MovieContainer() {
-   const moviestop=[{img:International1,title:"Luca"},{img:International2,title:"Batman"},{img:International3,title:"Ratatouille"},{img:International4,title:"Up"}];
-   const movieswatching=[{img:International1,title:"Luca"},{img:International2,title:"Batman"},{img:International3,title:"Ratatouille"},{img:International4,title:"Up"}];
-   const moviesrating=[{img:International1,title:"Luca"},{img:International2,title:"Batman"},{img:International3,title:"Ratatouille"},{img:International4,title:"Up"}];
+   const moviestop=[{img:International1,title:"សង្គ្រាមនៅអ៊ុយគ្រែន"},{img:International2,title:"ព័ត៌មានថ្មីៗ"},{img:International3,title:"របួសច្រើនណាស់"},{img:International4,title:"សម្ដីមន្រ្តីចិន"}];
+   const movieswatching=[{img:International1,title:"សង្គ្រាមនៅអ៊ុយគ្រែន"},{img:International2,title:"ព័ត៌មានថ្មីៗ"},{img:International3,title:"របួសច្រើនណាស់"},{img:International4,title:"សម្ដីមន្រ្តីចិន"}];
+   const moviesrating=[{img:International1,title:"សង្គ្រាមនៅអ៊ុយគ្រែន"},{img:International2,title:"ព័ត៌មានថ្មីៗ"},{img:International3,title:"របួសច្រើនណាស់"},{img:International4,title:"សម្ដីមន្រ្តីចិន"}];
   
 
   return (

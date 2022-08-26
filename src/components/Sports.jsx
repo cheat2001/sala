@@ -2,14 +2,15 @@ import React from 'react'
 import MovieNavbar from './HomeNavbar'
 import Movie from './Movie'
 import MovieBlock from './MovieBlock'
-import Khmer1 from "../Images/khmer1.jpg";
-import Khmer2 from "../Images/khmer2.jfif";
-import Khmer3 from "../Images/khmer3.jpg"
-import Khmer4 from "../Images/khmer4.png"
+import Sport1 from "../Images/sport1.jpg";
+import Sport2 from "../Images/sport2.jpg";
+import Sport3 from "../Images/sport3.jpg"
+import Sport4 from "../Images/sport4.jpg"
 function MovieContainer() {
-   const moviestop=[{img:Khmer1,title:"Luca"},{img:Khmer2,title:"Batman"},{img:Khmer3,title:"Ratatouille"},{img:Khmer4,title:"Up"}];
-   const movieswatching=[{img:Khmer1,title:"Luca"},{img:Khmer2,title:"Batman"},{img:Khmer3,title:"Ratatouille"},{img:Khmer4,title:"Up"}];
-   const moviesrating=[{img:Khmer1,title:"Luca"},{img:Khmer2,title:"Batman"},{img:Khmer3,title:"Ratatouille"},{img:Khmer4,title:"Up"}];
+  const moviestop=[{img:Sport1,title:"Man u បន្តចាញ់"},{img:Sport2,title:"ខ្សែប្រយុតដែលឡើងជើង"},{img:Sport3,title:"កីឡារករតម្លៃខ្លួនខ្ពស់"},{img:Sport4,title:"De Jong បន្តលេង"}];
+  const movieswatching=[{img:Sport1,title:"Man u បន្តចាញ់"},{img:Sport2,title:"ខ្សែប្រយុតដែលឡើងជើង"},{img:Sport3,title:"កីឡារករតម្លៃខ្លួនខ្ពស់"},{img:Sport4,title:"De Jong បន្តលេង"}];
+  const moviesrating=[{img:Sport1,title:"Man u បន្តចាញ់"},{img:Sport2,title:"ខ្សែប្រយុតដែលឡើងជើង"},{img:Sport3,title:"កីឡារករតម្លៃខ្លួនខ្ពស់"},{img:Sport4,title:"De Jong បន្តលេង"}];
+  
   
 
   return (
