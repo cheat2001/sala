@@ -8,7 +8,7 @@ function Movie({Wth,Hth,Img,Title,Id}) {
         <div className='absolute blur-sm  duration-500 w-[100%] h-[40%] bg-[#0000007e] left-0 bottom-0'></div>
         <img src={Img} alt="" className={`object-cover h-[200px] w-[300px] sm:w-[${Wth}] sm:h-[${Hth}]`} />
         <div className='absolute bottom-2 left-2 '>
-            <h1 style={{fontSize:"35px"}}>{Title}</h1>
+            <h1 style={{fontSize:"26px"}}>{Title}</h1>
             <p>2022</p>
             
         </div>

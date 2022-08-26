@@ -1,8 +1,10 @@
 import React from 'react'
-
+import NewsNavbar from "../components/NewsNavbar";
 function News() {
   return (
-    <div>News</div>
+    <div>
+      <NewsNavbar/>
+    </div>
   )
 }
 

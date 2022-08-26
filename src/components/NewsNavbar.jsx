@@ -14,9 +14,9 @@ function MovieNavbar() {
     <div className="w-full h-[70px] flex items-center bg-[#0d0a24] pl-[150px]">
          <div className="flex gap-4 text-white">
          
-           <NavLink onClick={()=>setState(false)} style={navLinkStyle} to="Khmer">Khmer</NavLink>
-           <NavLink onClick={()=>setState(false)} style={navLinkStyle} to="english">English</NavLink>
-           <NavLink onClick={()=>setState(false)} style={navLinkStyle} to="Math">Math</NavLink>
+           <NavLink onClick={()=>setState(false)} style={navLinkStyle} to="nation">Nation</NavLink>
+           <NavLink onClick={()=>setState(false)} style={navLinkStyle} to="international">International</NavLink>
+           <NavLink onClick={()=>setState(false)} style={navLinkStyle} to="sports">Sports</NavLink>
            <Outlet/>
          </div>
     </div>

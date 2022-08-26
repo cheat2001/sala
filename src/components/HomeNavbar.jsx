@@ -21,7 +21,7 @@ function MovieNavbar() {
   //   }
   // }, [action]);
   return (
-    <div className="w-full h-[70px] flex items-center bg-[#0D0D0D] pl-[150px]">
+    <div className="w-full h-[70px] flex items-center bg-[#0d0a24] pl-[150px]">
          <div className="flex gap-4 text-white">
            {/* <AiOutlineMenu onClick={()=>setAction(pre=>!pre)} size={20} className="absolute left-[100px] cursor-pointer"/> */}
            <NavLink onClick={()=>setState(false)} style={navLinkStyle} to="/">Movies</NavLink>
